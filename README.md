@@ -17,5 +17,13 @@ This project analyzes retail sales data using SQL.
 - Top-selling products
 - Customer order analysis
 
+## Screenshots
+
+### Tables
+![Tables](images/tables.png)
+
+### Query Result
+![Query Result](images/query_result.png)
+
 ## Conclusion
 This project demonstrates SQL skills including joins, aggregation, and data analysis.
